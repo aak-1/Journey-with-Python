@@ -1,0 +1,11 @@
+if __name__ == '__main__':
+    a = int(input())
+    b = int(input())
+print(a//b)
+print(a/b)
+
+
+"""
+Task
+Read two integers and print two lines. The first line should contain integer division, . The second line should contain float division,
+"""
